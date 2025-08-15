@@ -18,10 +18,10 @@ mult = n1 * n2
 #divisão
 div = n1 / n2
 
-print = (f"primeiro numero: {n1}")
-print = (f"segundo numero: {n2}")
-print = (f"soma: {soma}")
-print = (f"subtração: {sub}")
-print = (f"multiplicação: {mult}")
-print = (f"divisão: {div}")
+print (f"primeiro numero: {n1}")
+print (f"segundo numero: {n2}")
+print (f"soma: {soma}")
+print (f"subtração: {sub}")
+print (f"multiplicação: {mult}")
+print (f"divisão: {div}")
 
