@@ -2,7 +2,10 @@
 
 import os
 os.system("cls")
-
+print("""
+    M - Masculino
+    F - Fmeninino
+""")
 genero = input ("qual o seu Gênero (M OU F): ")
 altura = float(input("Qual a sua altura: "))
 
