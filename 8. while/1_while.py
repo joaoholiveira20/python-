@@ -1,0 +1,13 @@
+import os
+os.system("cls")
+
+print("Laço de repetição - while")
+
+
+while True:
+    numero = int(input("Digite um número: "))
+    if numero == 2:
+        break
+
+print("===FIM!===")
+    
