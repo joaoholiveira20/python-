@@ -10,13 +10,13 @@ class Pessoa:
     cpf: str
 
 @dataclass
-class Pet:
+class Pet:      
     nome: str
     idade: int
     peso: float
 
 # Exemplo de uso da classe.
-pessoa1 = Pessoa(nome="Marta",cpf="21545852", idade=20)
+pessoa1 = Pessoa(nome="João",cpf="215.458.529-00", idade=20)
 pet1 = Pet(nome="Totó", idade=4, peso=2.100)
 
 print("Exibindo dados da Pessoa.")
